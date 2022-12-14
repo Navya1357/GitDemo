@@ -19,6 +19,6 @@ public class Test1 {
       Assert.assertTrue(driver.getCurrentUrl().contains("opensource-demo"),"URL Match");
 }
 
-}
+
 
 }
